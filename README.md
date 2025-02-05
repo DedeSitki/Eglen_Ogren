@@ -1,6 +1,6 @@
 ************************** Giriş Yapma - Kayıt Olma - Şifremi Unuttum Ekranları **************************
-![Eğlen Öğren 1](https://github.com/user-attachments/assets/711edfd1-ec1f-441f-9cbd-d42b22e269fc) ![Image Sequence_018_0000(16_9)](https://github.com/user-attachments/assets/3408a278-31c4-42fa-a5b8-74f66da8d476)
-
+![Eğlen Öğren 1](https://github.com/user-attachments/assets/711edfd1-ec1f-441f-9cbd-d42b22e269fc) 
+![Image Sequence_018_0000(16_9)](https://github.com/user-attachments/assets/3408a278-31c4-42fa-a5b8-74f66da8d476)
 ![Image Sequence_019_0000(16_9)](https://github.com/user-attachments/assets/ab26b2fb-d66d-4aed-9915-fd46563b4a04)
 ![Image Sequence_020_0000(16_9)](https://github.com/user-attachments/assets/eb4f246b-7b6b-495a-9a93-af0f4c7958de)
 
@@ -34,5 +34,4 @@
 ![Image Sequence_034_0000(16_9)](https://github.com/user-attachments/assets/a89ffa3c-846a-45ba-b8ff-300ebaaf47dc)
 ![Image Sequence_035_0000(16_9)](https://github.com/user-attachments/assets/be15fdfc-c1be-4828-85c3-c6f2bf6bbea0)
 ![Image Sequence_036_0000(16_9)](https://github.com/user-attachments/assets/9a2edf5c-8e44-4a45-a444-ca75acecc4cc)
-![Image Sequence_037_0000(16_9)](https://github.com/user-attachments/assets/22e6cc85-6482-4906-9a17-40a908ddb6fc)
 ![Image Sequence_038_0000(16_9)](https://github.com/user-attachments/assets/29ff1179-c10a-4df2-b656-f1dcd532bb1c)
